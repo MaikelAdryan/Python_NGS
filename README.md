@@ -1,11 +1,11 @@
 # Projetos em Python
 
 * [Projeto 1](https://github.com/AdryanMaikel/Python_NGS/blob/main/README.md#-projeto-1)
-   * Pegando cotações do site do Google Finance utilizando:
-     * requests
-     * BeautifulSoup
-   * Depois transformando em um DataFrame utilizando:
-     * pandas
+    * Pegando cotações do site do Google Finance utilizando:
+      * requests
+      * BeautifulSoup
+    * Depois transformando em um DataFrame utilizando:
+      * pandas
 
 * [Projeto 2](https://github.com/AdryanMaikel/Python_NGS/blob/main/README.md#-projeto-2)
     * Baixando um relatorio com o navegador firefox utilizando
