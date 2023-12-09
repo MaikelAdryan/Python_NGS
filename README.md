@@ -7,7 +7,7 @@
    * Depois transformando em um DataFrame utilizando:
      * pandas
 
-* [Projeto 2](https://github.com/AdryanMaikel/Python_NGS/blob/main/README.md#projeto-2-projeto-2)
+* [Projeto 2](https://github.com/AdryanMaikel/Python_NGS/blob/main/README.md#projeto-2)
   * Baixando um relatorio com o navegador firefox utilizando
     * selenium
     * urllib.request
