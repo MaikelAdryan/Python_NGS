@@ -7,12 +7,12 @@
    * Depois transformando em um DataFrame utilizando:
      * pandas
 
-* [Projeto 2](https://github.com/AdryanMaikel/Python_NGS/blob/main/README.md#projeto-2)
-  * Baixando um relatorio com o navegador firefox utilizando
-    * selenium
-    * urllib.request
-    * os
-    * time
+* [Projeto 2](https://github.com/AdryanMaikel/Python_NGS/blob/main/README.md#-projeto-2)
+    * Baixando um relatorio com o navegador firefox utilizando
+      * selenium
+      * urllib.request
+      * os
+      * time
 
 ## <a id="Projeto-1"></a> Projeto 1
 
