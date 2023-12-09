@@ -1,13 +1,13 @@
 # Projetos em Python
 
-1. [Projeto 1](https://github.com/AdryanMaikel/Python_NGS/blob/main/README.md#projeto-2-projeto-2)
+1. [Projeto 2](https://github.com/AdryanMaikel/Python_NGS/blob/main/README.md#projeto-2-projeto-2)
    - Pegando cotações do site do Google Finance utilizando:
         * requests
         * BeautifulSoup
     - Depois transformando em um DataFrame utilizando:
         - pandas
 
-2. [Projeto 2](#Projeto-2)
+2. [Projeto 1](https://github.com/AdryanMaikel/Python_NGS/blob/main/README.md#-projeto-1)
    - Baixando um relatorio com o navegador firefox utilizando
      * selenium
      * urllib.request
