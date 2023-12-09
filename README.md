@@ -50,7 +50,6 @@ if __name__ == '__main__':
 
 ```
 
-## Projeto 2 {#Projeto-2}
 ## <a id="Projeto-2"></a> Projeto 2
 
 ```python
