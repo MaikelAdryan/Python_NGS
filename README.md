@@ -15,7 +15,7 @@
      * time
 
 
-## <a name="Projeto-1"></a> Projeto 1
+## <a id="Projeto-1"></a> Projeto 1
 
 ```python
 import requests
@@ -50,7 +50,8 @@ if __name__ == '__main__':
 
 ```
 
-## <a name="Projeto-2"></a> Projeto 2
+## Projeto 2 {#Projeto-2}
+## <a id="Projeto-2"></a> Projeto 2
 
 ```python
 from selenium.webdriver import Firefox
