@@ -1,6 +1,6 @@
 # Projetos em Python
 
-1. [Projeto 1](#Projeto-1)
+1. [Projeto 1](https://github.com/AdryanMaikel/Python_NGS/blob/main/README.md#projeto-2-projeto-2)
    - Pegando cotações do site do Google Finance utilizando:
         * requests
         * BeautifulSoup
