@@ -14,8 +14,6 @@
 # print(f'"{string.ljust(10)}"')
 # print(f'"{string.upper()}"')
 
-
-
 # string = 'aleatório'
 
 # for word in string:
@@ -29,8 +27,28 @@
 # print(list(string))
 
 
-while True:
-  print('FOO'.lower() , 'baa'.upper())
-  if input('digite (s) para sair: ').lower() == 's':
-    break
+# while True:
+#   print('FOO'.lower() , 'baa'.upper())
+#   if input('digite (s) para sair: ').lower() == 's':
+#     break
+
+name = 'Adryan Maikel da Cunha Kuhne'
+
+name = name.lower()
+
+# print(name.capitalize()) # -> Adryan maikel da cunha kuhne
+
+def transform_name(string):
+  string_finaly = []
+  for word in string.split(' '):
+    string_temp = str(word).capitalize()
+    if len(word) <= 2:
+      string_temp = str(word).lower()
+    string_finaly.append(string_temp) 
+
+  return ' '.join(string_finaly)
   
+name = transform_name('adryan maikel da cunha kuhne')
+print(name)
+# print(name.title()) # -> Adryan Maikel Da Cunha Kuhne
+
