@@ -38,6 +38,34 @@
   print(string.ljust(10)) # -> 'foo       '
   ```
 
+* For em string
+
+  ```python
+  string = 'aleatory'
+
+  for word in string:
+    print(word)
+  
+  # a
+  # l
+  # e
+  # a
+  # t
+  # o
+  # r
+  # y
+  ```
+
+* Método .lower() e .upper()
+
+  ```python
+  'FOO'.lower() # -> 'foo'
+  'baa'.upper() # -> 'BAA'
+  ```
+
+
+## Array
+
 *
 
   ```python
