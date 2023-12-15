@@ -2,26 +2,22 @@
 
 ## Strings
 
-* Método split
+* Método **split**
   
   ```python
   string = 'Hello, World!'
   string_splited = string.split(',')
-  print(string_splited)
-
-  # ['Hello', ' World!']
+  print(string_splited) # -> ['Hello', ' World!']
   ```
 
-* Método len
+* Método **len**
 
   ```python
   string = 'Hello'
-  print(len(string))
-  
-  # 5
+  print(len(string)) # -> 5
   ```
 
-* Método strip
+* Método **strip**
 
   ```python
   string = '   foo    '
@@ -30,7 +26,7 @@
   print(string.rstrip()) # -> '   foo'
   ```
 
-* Método ljust e rjust
+* Método **ljust** e **rjust**
 
   ```python
   string = 'foo'
@@ -43,8 +39,8 @@
   ```python
   string = 'aleatory'
 
-  for word in string:
-    print(word)
+  for letter in string:
+    print(letter)
   
   # a
   # l
@@ -62,9 +58,6 @@
   'FOO'.lower() # -> 'foo'
   'baa'.upper() # -> 'BAA'
   ```
-
-
-## Array
 
 *
 
