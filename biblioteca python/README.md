@@ -2,7 +2,7 @@
 
 ## Strings
 
-1. Método split
+* Método split
   
   ```python
   string = 'Hello, World!'
@@ -12,33 +12,33 @@
   # ['Hello', ' World!']
   ```
 
-1. Método len
+* Método len
 
   ```python
-  string_splited = ['Hello', ' World!']
-  print(len(string_splited))
+  string = 'Hello'
+  print(len(string))
   
-  # 2
+  # 5
   ```
 
-1. Método strip
+* Método strip
 
   ```python
-  print(f'"{string}".lstrip() = "{string.lstrip()}"')
-  print(f'"{string}".rstrip() = "{string.rstrip()}"')
-  print(f'"{string}".strip() = "{string.strip()}"')
-
-  # "   foo    ".lstrip() = "foo    "
-  # "   foo    ".rstrip() = "   foo"
-  # "   foo    ".strip() = "foo"
+  string = '   foo    '
+  print(string.strip())  # -> 'foo'
+  print(string.lstrip()) # -> 'foo    '
+  print(string.rstrip()) # -> '   foo'
   ```
 
-1.
+* Método ljust e rjust
 
   ```python
+  string = 'foo'
+  print(string.rjust(10)) # -> '       foo'
+  print(string.ljust(10)) # -> 'foo       '
   ```
 
-1.
+*
 
   ```python
   ```
